@@ -27,10 +27,8 @@ hr.light {
 }
 
 .btn-xl {
-  padding: 1.25rem 2.25rem;
-  font-size: 0.85rem;
-  font-weight: 700;
-  text-transform: uppercase;
+  padding: 0.6rem 2rem;
+  font-size: 18px;
   border: none;
   border-radius: 10rem;
 }
@@ -48,4 +46,12 @@ hr.light {
 }
 .p_height{
   line-height: 1.3;
+}
+
+.fs-18{
+  font-size: 18px;
+}
+
+h2{
+  font-weight: bold;
 }
